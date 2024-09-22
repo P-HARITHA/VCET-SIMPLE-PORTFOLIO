@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+  
+    <title>College Information</title>
+    <link  rel="stylesheet" href="style.css">
+    
+    <style>
+        body {
+            background-image: url('https://velalarengg.ac.in/images/about.jpg');
+            background-size: cover;
+            font-family: Arial, sans-serif;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+
+        
+        h1 {
+            color: #000;
+            font-family: 'Times New Roman', Times, serif;
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            color: #4CAF50;
+            font-size: 20px;
+            margin-bottom: 10px;
+        }
+
+        h3 {
+            color: #1565c0;
+            font-size: 18px;
+            margin: 10px 0;
+        }
+
+        h4 {
+            color: #c62828;
+            font-size: 16px;
+            margin: 10px 0;
+        }
+
+        p {
+            font-size: 16px;
+            margin: 10px 0;
+        }
+        .container {
+            padding: 20px;
+            background-color: rgba(255, 255, 255, 0.7);
+            border-radius: 10px;
+            margin: 50px auto;
+            max-width: 600px;
+        }
+        
+       
+        
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>VELALAR COLLEGE OF ENGINEERING AND TECHNOLOGY</h1>
+        <h2>ADDRESS:</h2>
+        <h4>Maruthi Nagar, Thindal, Erode 638102</h4>
+        <h2>ESTABLISHMENT: 2001</h2>
+        <h2>OPENING HOURS: 9.00AM to 4.00PM</h2>
+        <h1>COURSES AVAILABLE:</h1>
+        <h3>COMPUTER SCIENCE ENGINEERING</h3>
+        <h3>ELECTRONICS AND COMMUNICATION ENGINEERING</h3>
+        <h3>ELECTRICAL AND ELECTRONICS ENGINEERING</h3>
+        <h3>MECHANICAL ENGINEERING</h3>
+        <h3>CIVIL ENGINEERING</h3>
+        <h3>ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING</h3>
+        <h3>INFORMATION TECHNOLOGY</h3>
+       
+        
+        <h2>CLICK FOR A MAGIC: <a href="https://www.google.com/maps?q=Velalar+College+of+Engineering+and+Technology,+Erode,+Tamil+Nadu,+India" target="_blank">WELCOME TO VCET!!</a></h2>
+    </div>
+</body>
+</html>
